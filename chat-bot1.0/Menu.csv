@@ -1,0 +1,16 @@
+ID,Name,Category,Price,Quantity
+1,Pizza,Food,350,7
+2,Soda,Drink,45,12
+3,Chicken Burger,Food,230,6
+4,Beef Burger,Food,230,1
+5,Spaghetti,Food,120,2
+6,Shawerma,Food,140,4
+7,Mini cake,Desert,85,4
+8,Pancake,Desert,65,1
+9,Donats,Desert,35,14
+10,Pasbosa,Desert,25,8
+11,Rice with milk,Desert,25,7
+12,Hot Choclate,Drink,75,7
+13,Orange juice,Drink,45,2
+14,ice cofffe,Drink,75,7
+15,Smothy lemon,Drink,65,0
